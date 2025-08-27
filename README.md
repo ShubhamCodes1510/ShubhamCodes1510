@@ -42,5 +42,4 @@ Constantly upskilling with modern frameworks like <b>React.js, Angular, and Node
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamCodes1510&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamCodes1510&theme=tokyonight" alt="streak"/>
 </p>
