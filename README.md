@@ -16,7 +16,7 @@ Constantly upskilling with modern frameworks like <b>React.js, Angular, and Node
 <a href="https://www.linkedin.com/in/shubham-sonawane-a871a1381" target="_blank">
   <img src="https://img.shields.io/badge/-Shubham%20Sonawane-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:shubhams1510@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shubhamsonawane1510@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
